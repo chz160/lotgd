@@ -1,0 +1,14 @@
+# IDE
+.idea
+.idea/*
+*.iml
+.vscode
+
+#Claude
+.claude/
+CLAUDE.md
+
+#LotGD
+cache/datacache/
+
+
